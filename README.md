@@ -10,10 +10,11 @@ Step 3 - Making different visualizations based on the data and certain questions
 Step 4 - Make a dashboard that covers a few major visualizations and that is interactive to allow from viewers to easily see insights and answers to questions they may have on TB. 
 
 ## Results
-Option 2 - 
+Option 2 - Tuberculosis Burden by Country. The question I asked was what is the disparity in estimated prevalence and incidence of cases of TB and I was looking for any outliers and looking for consistent results over the years to prove the seriousness of TB and that it is a real thing that should be addressesed and not ignored. 
+If we see a huge disparity between prevalence and incidence it would tell us that something else is causing illness in these countries and not TB inherently. Moreover if we see consistent results it tells us that TB and illness are highly correlated and it should be addressed on the federal highest levels. 
+
 
 ## Challenges 
-(discuss challenges you faced in the project)
-
+Some Challenges I faced was brainstorming the type of insights I wanted to dervie from this data set. It is hard to see vast data rows and columns and then to create a well flowing dashboard of insightful visualizations. 
 ## Future Goals
-(what would you do if you had more time?)
+I would try to derive even deeper insights about TB and compare them to medical interventions that were invented throughout history to see the efficacy of certain medicines and to depict the power of technological and medicinal advancements of modern times . 
